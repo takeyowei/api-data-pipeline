@@ -1,0 +1,20 @@
+============================================================
+WEATHER DATA PIPELINE — SUMMARY REPORT
+============================================================
+Snapshots stored: 4 across 4 location(s)
+
+[Da Nang]  (observed 2026-10-23T12:45, fetched 2026-10-23T05:49:13+00:00)
+  Now: 30.9°C (feels 36.6°C), humidity 60.0%, wind 8.0 km/h, pressure 1008.8 hPa, rain 0.0 mm
+  Only one snapshot so far — no comparison available.
+
+[Hanoi]  (observed 2026-10-23T12:45, fetched 2026-10-23T05:49:12+00:00)
+  Now: 31.8°C (feels 38.4°C), humidity 62.0%, wind 4.1 km/h, pressure 1008.0 hPa, rain 0.0 mm
+  Only one snapshot so far — no comparison available.
+
+[Ho Chi Minh City]  (observed 2026-10-23T12:45, fetched 2026-10-23T05:49:13+00:00)
+  Now: 31.6°C (feels 40.9°C), humidity 73.0%, wind 2.3 km/h, pressure 1008.7 hPa, rain 0.1 mm
+  Only one snapshot so far — no comparison available.
+
+[Singapore]  (observed 2026-10-23T13:45, fetched 2026-10-23T05:49:14+00:00)
+  Now: 33.2°C (feels 38.9°C), humidity 53.0%, wind 8.7 km/h, pressure 1009.4 hPa, rain 0.0 mm
+  Only one snapshot so far — no comparison available.
